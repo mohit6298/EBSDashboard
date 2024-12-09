@@ -42,8 +42,8 @@ A comprehensive Python-based tool for automatically generating CloudWatch dashbo
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd aws-ebs-monitoring
+   git clone https://github.com/mohit6298/EBSDashboard.git
+   cd EBSDashboard
    ```
 
 2. Install required packages:
@@ -133,9 +133,6 @@ The script includes comprehensive error handling for:
 4. Push to the branch
 5. Create a new Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Support
 
