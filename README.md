@@ -152,8 +152,3 @@ For support:
 - Regularly rotate access keys
 - Follow AWS security best practices
 
-## Acknowledgments
-
-- AWS SDK for Python (Boto3)
-- CloudWatch Metrics API
-- EC2 API
