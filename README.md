@@ -1,4 +1,4 @@
-# AWS EBS Monitoring Dashboard Generator
+# AWS EBS Monitoring Dashboard Generator 
 
 A comprehensive Python-based tool for automatically generating CloudWatch dashboards to monitor Amazon EBS (Elastic Block Store) volumes attached to EC2 instances. The tool creates detailed dashboards with IOPS and throughput metrics for each volume.
 
@@ -152,7 +152,7 @@ For support:
 - Regularly rotate access keys
 - Follow AWS security best practices
 
-## Acknowledgments
+## Acknowledgments new
 
 - AWS SDK for Python (Boto3)
 - CloudWatch Metrics API
